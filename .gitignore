@@ -1,0 +1,4 @@
+.env
+.env.exaple
+bot.db-shm
+bot.db-wal
